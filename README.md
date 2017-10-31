@@ -11,7 +11,7 @@ Instructions
 	2 click on start button to update and it keep updating next generation till reset button is clicked
 	3 at bottom show no of generations iterated
 
-==================================== For Developers===============================================
+=================== For Developers=======================
 
 Conway's Game
 --Tech Notes
@@ -70,6 +70,6 @@ Also same could be set in property file
 	For developer to review code and compile
 	Eclipse
 	maven 3X
-	java 5x or greater
+	java 8x or greater
 
 
