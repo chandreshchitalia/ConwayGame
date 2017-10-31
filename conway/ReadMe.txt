@@ -55,5 +55,5 @@ Also same could be set in property file
 	For developer to review code and compile
 	Eclipse
 	maven 3X
-	java 5x or greater
+	java 8x or greater
 
